@@ -12,6 +12,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/stalk-barrel-whisky/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/stalk-barrel-100-single-malt-whisky/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/lailey-vineyard-chardonnay-old-vines-2012/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
